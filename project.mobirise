@@ -82,7 +82,7 @@
       "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
     },
     "favicon": "@PROJECT_PATH@/assets/images/48458-128x174.png",
-    "canonical-url": false,
+    "canonical-url": "<linkrel=\"canonical\"href=\"https://www.example.com/url/to/full/document.html\">",
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
